@@ -1,6 +1,6 @@
 var fromAddress = new MailAddress("smadhavan1995@gmail.com", "Madhavan Seshadri");
                 var toAddress = new MailAddress("noopijain@gmail.com", "Noopur Jain");
-                const string fromPassword = "madu1810";
+                const string fromPassword = "not my password";
                 //Email notification sending start 
                 const string subject = "CMS Test";
                 const string body = "Hello Noopur Jain! Dont be alarmed, if you are reading this, then it means that 'email_send' test function executed successfully";
